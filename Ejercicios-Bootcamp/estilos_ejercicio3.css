@@ -1,0 +1,43 @@
+.titulo {
+    background-color: rgb(66, 66, 66);
+    color:white;
+    width: 1200px;
+    margin-left: 30px;
+}
+
+.tituloCSS {
+    background-color: rgb(66, 66, 66);
+    color:white;
+    width: 1200px;
+    margin-left: 30px;
+    
+}
+
+.IMGHTML {
+    float:left;
+    margin-left: 100px;
+    clear: both;
+    
+    
+}
+
+.IMGCSS3 {
+    clear:both;
+    float:left;
+    margin-left: 100px;
+    
+}
+
+.contenedor {
+    
+    width: 1300px;
+    height: 600px;
+    background-color: gray;
+    
+}
+
+.huno {
+    text-align: center;
+    
+}
+
