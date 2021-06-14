@@ -1,0 +1,38 @@
+.Cajas {
+    max-width: 900px; /*max-width y min-width se utilizan para decirle hasta donde tendra su espacio. lo maximo o lo minimo*/
+    display:flex;
+    background-color: lightgray;
+    border: 3px solid black;
+    height: 600px;
+    margin:0 auto;
+    justify-content: center; /*centrar elementos como DIVS  pero lo centra arriba- AGREGAR EL MARGIN*/
+    align-items: center; /*centra el div en el centro del centro, es decir, no se centra y se queda arriba, se queda exacto en medio*/
+    /*flex-direction: column; te permite alinear uno de bajo de otro*/
+    
+}
+.caja {
+    width:200px;
+    height: 200px;
+    border: 3px solid black;
+    margin: 10px;
+    
+}
+
+.roja {
+    background-color: red;
+    align-self: baseline; /*para alinear hacia arriba*/
+    justify-self: baseline;
+    
+}
+
+.verde {
+    background-color: greenyellow;
+}
+
+.azul {
+    background-color: aqua;
+    align-self: inherit;
+    align-self: flex-end; /*alinea hacia abajo*/
+}
+
+ 
