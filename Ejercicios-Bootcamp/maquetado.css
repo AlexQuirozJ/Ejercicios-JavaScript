@@ -1,0 +1,49 @@
+.p1{
+    margin-left: 83px;
+    margin-top: 50px;
+    width: 180px;
+    font-size: 1.7em;
+}
+.p2 {
+    margin-left: 83px;
+    width: 100px;
+    float: left;
+    font-size: 1.2em;
+    
+
+
+}
+.col{
+    background-color: blueviolet;
+}   
+
+.col-2{
+    background-color:rgba(137, 43, 226, 0.877);
+}   
+
+
+.p3{
+    margin-left: 83px;
+    width: 100px;
+    
+}
+
+.navbar {
+    width: 200px;
+    height: 30px;
+}
+
+.check {
+   width: 280px;
+   margin-left: 75px;
+    
+}
+.container{
+    clear: both;
+}
+
+.card-group {
+   width: 700px;
+   position:absolute;
+   margin-left: 400px;
+}
